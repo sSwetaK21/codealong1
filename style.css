@@ -1,0 +1,32 @@
+.left{
+    display: flex;
+    flex: 1;
+}
+.center{
+    display: flex;
+    flex: 2;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.right{
+    display: flex;
+    flex: 1;
+
+}
+header i{
+    cursor: pointer;
+}
+.yt-logo{
+    color: brown;
+}
+button .bx-search{
+    height: 22px;
+
+}
+.profileimg {
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+}
